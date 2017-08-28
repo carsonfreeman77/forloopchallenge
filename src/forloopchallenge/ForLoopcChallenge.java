@@ -36,7 +36,7 @@ public class ForLoopcChallenge {
 		System.out.println("*********");
 		
 	    
-	
+	//monday afternoon
 
 		
 		Scanner c = new Scanner(System.in);
