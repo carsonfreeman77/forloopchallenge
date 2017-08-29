@@ -57,7 +57,7 @@ public class ForLoopcChallenge {
 		
 	    
 	//Monday afternoon
-
+ 	//Tonight at home commit/tell Mr. McGuire to check off
 		
 		Scanner c = new Scanner(System.in);
 		System.out.println("Please tell me a number above 100");
